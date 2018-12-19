@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-dbutils-1.5.jar"/>
+	<classpathentry kind="lib" path="libs/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/edtftpj.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="libs/fastjson-1.2.32.jar"/>
+	<classpathentry kind="lib" path="libs/HNCACryptoLibrary.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/qzjk.jar"/>
+	<classpathentry kind="lib" path="libs/wsdl4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/xfire-all-1.2.6.jar"/>
+	<classpathentry kind="lib" path="libs/XmlSchema-1.4.7.jar"/>
+	<classpathentry kind="lib" path="libs/Java-WebSocket-1.3.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
